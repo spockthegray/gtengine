@@ -39,7 +39,7 @@
     <ProjectGuid>{f83a3412-2e2b-422c-9125-3a4158687b3f}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>Delaunay3D</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -39,7 +39,7 @@
     <ProjectGuid>{7a8d9ae3-2a4c-47d9-b8e3-95e83ecbfc21}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>MinimumVolumeSphere3D</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

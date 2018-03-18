@@ -39,7 +39,7 @@
     <ProjectGuid>{579d267f-8c7b-4395-a8ed-145c991390a6}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>FreeTopFixedTip</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

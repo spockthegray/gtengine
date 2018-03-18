@@ -39,7 +39,7 @@
     <ProjectGuid>{4f77e203-d60a-43ed-b046-52d966f56ad0}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>MinimumAreaBox2D</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

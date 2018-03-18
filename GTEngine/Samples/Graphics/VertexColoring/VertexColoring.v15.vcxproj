@@ -39,7 +39,7 @@
     <ProjectGuid>{fb303cb2-1d3c-4a17-9ce5-84a03251db8a}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>VertexColoring</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

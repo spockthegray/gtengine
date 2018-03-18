@@ -39,7 +39,7 @@
     <ProjectGuid>{9b429f67-b2eb-4671-935e-a210445709e8}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>SimplePendulumFriction</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

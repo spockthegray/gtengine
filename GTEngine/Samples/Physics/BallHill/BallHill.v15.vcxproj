@@ -39,7 +39,7 @@
     <ProjectGuid>{c6845ae7-7321-4964-a96a-48f2d9607d5c}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>BallHill</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

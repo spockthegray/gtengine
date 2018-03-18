@@ -39,7 +39,7 @@
     <ProjectGuid>{bbca7bfd-fccb-48c9-ac11-6a06bee8e24a}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>VideoStreams</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

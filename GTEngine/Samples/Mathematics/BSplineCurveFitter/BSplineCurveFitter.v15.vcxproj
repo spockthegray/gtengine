@@ -39,7 +39,7 @@
     <ProjectGuid>{ea7985ac-9d27-4716-90f1-543d5760406c}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>BSplineCurveFitter</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

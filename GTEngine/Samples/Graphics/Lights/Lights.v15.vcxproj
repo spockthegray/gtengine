@@ -39,7 +39,7 @@
     <ProjectGuid>{7fbb6e2f-ebd5-49b1-b68e-5bbe6c44aefa}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>Lights</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

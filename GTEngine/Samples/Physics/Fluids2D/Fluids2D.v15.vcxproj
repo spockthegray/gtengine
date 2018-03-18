@@ -39,7 +39,7 @@
     <ProjectGuid>{fb920816-c831-4c34-9e6c-a4a6980276bc}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>Fluids2D</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -39,7 +39,7 @@
     <ProjectGuid>{7e2af7b1-d409-4f95-b201-0e67c341ffdf}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>GenerateMeshUVs</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

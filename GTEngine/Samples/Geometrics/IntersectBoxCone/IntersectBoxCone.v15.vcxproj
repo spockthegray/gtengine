@@ -39,7 +39,7 @@
     <ProjectGuid>{fae572d8-6032-4126-919d-c41ff4b330d7}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>IntersectBoxCone</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

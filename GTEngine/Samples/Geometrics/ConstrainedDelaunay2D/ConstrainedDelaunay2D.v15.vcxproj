@@ -39,7 +39,7 @@
     <ProjectGuid>{a9e44794-7d0a-4906-b493-073ed5263bbf}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>ConstrainedDelaunay2D</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

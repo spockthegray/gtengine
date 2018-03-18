@@ -39,7 +39,7 @@
     <ProjectGuid>{32b81ad2-7a7c-4011-8f21-ab751dd2c5b9}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>ExtremalQuery</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

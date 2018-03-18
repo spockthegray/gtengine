@@ -39,7 +39,7 @@
     <ProjectGuid>{2daa3a00-be9f-4cbb-9d6d-9ae99b031de2}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>GenerateApproximations</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

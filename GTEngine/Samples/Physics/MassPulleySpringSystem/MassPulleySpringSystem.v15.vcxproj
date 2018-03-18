@@ -39,7 +39,7 @@
     <ProjectGuid>{8dd0f1c6-29d5-4afb-bb38-b4771172d9b4}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>MassPulleySpringSystem</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
